@@ -26,3 +26,7 @@ Vahid Montazeri, October 2018.
 
 :slightly_smiling_face:
 
+## my note 
+
+.wav sentence is the first one from http://www.mrc-cbu.cam.ac.uk/people/matt.davis/vocode/
+
